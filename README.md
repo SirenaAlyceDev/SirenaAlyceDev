@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirenaAlyceDev
 - 👀 I’m interested in data and development
-- 🌱 I’m currently learning backend tech
+- 🌱 I REALLY enjoy frontend tech and I’m currently learning backend tech
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: sirena@sirenaalyce.com
 
